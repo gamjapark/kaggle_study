@@ -7,8 +7,7 @@
     <list default="true" id="97b91ebe-29aa-4ca8-972d-46ba92771cbb" name="변경" comment="bike code 0">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bike Sharing Demand/Bike Sharing Demand.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Bike Sharing Demand/Bike Sharing Demand.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bike Sharing Demand/sampleSubmission.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bike Sharing Demand/submission.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Titanic - Machine Learning from Disaster/Titanic - Machine Learning from Disaster.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Titanic - Machine Learning from Disaster/Titanic - Machine Learning from Disaster.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,11 +42,13 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gamjapark/Desktop/study/kaggle_study&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -73,6 +74,8 @@
       <workItem from="1731761878991" duration="1362000" />
       <workItem from="1731763500169" duration="20577000" />
       <workItem from="1731789282156" duration="11304000" />
+      <workItem from="1731824766910" duration="2293000" />
+      <workItem from="1731828777343" duration="42314000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />

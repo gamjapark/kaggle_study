@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97b91ebe-29aa-4ca8-972d-46ba92771cbb" name="변경" comment="init" />
+    <list default="true" id="97b91ebe-29aa-4ca8-972d-46ba92771cbb" name="변경" comment="bike code 0">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bike Sharing Demand/Bike Sharing Demand.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Bike Sharing Demand/Bike Sharing Demand.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bike Sharing Demand/sampleSubmission.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bike Sharing Demand/submission.csv" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,12 +18,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/gamjapark/kaggle_study.git",
-    "accountId": "e9270f4a-fafd-4946-b16f-e956bf2cc552"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gamjapark&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gamjapark/kaggle_study.git&quot;,
+    &quot;accountId&quot;: &quot;e9270f4a-fafd-4946-b16f-e956bf2cc552&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -57,7 +68,11 @@
       <option name="presentableId" value="Default" />
       <updated>1731480611547</updated>
       <workItem from="1731480612905" duration="6376000" />
-      <workItem from="1731578392727" duration="304000" />
+      <workItem from="1731578392727" duration="424000" />
+      <workItem from="1731720032691" duration="20382000" />
+      <workItem from="1731761878991" duration="1362000" />
+      <workItem from="1731763500169" duration="20577000" />
+      <workItem from="1731789282156" duration="11304000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -67,7 +82,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731578568306</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="env">
+      <option name="closed" value="true" />
+      <created>1731578806599</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731578806599</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +98,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="env" />
+    <MESSAGE value="bike code 0" />
+    <option name="LAST_COMMIT_MESSAGE" value="bike code 0" />
   </component>
 </project>
